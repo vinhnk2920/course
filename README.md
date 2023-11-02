@@ -7,6 +7,7 @@
 
 [My certificate](https://www.coursera.org/specializations/machine-learning-introduction)
 
-- Regression Model
+- Linear Regression + Multi Linear Regression
 - Cost function
 - Gradient Descent
+- Vectorization
