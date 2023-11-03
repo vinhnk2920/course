@@ -11,3 +11,5 @@
 - Cost function
 - Gradient Descent
 - Vectorization
+- Feature Engineering
+- Logistic Regression
