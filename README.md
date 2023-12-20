@@ -21,6 +21,12 @@
 - Feature Engineering
 - Logistic Regression
 - Overfitting
+- Activation function
+- Optimization
+- Back propagation
+- Evaluating a model
+- Bias and variance
+- Adding data
 
 ### Advanced Learning Algorithms
 
